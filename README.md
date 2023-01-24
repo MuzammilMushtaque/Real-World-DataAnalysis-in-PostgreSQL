@@ -1,1 +1,0 @@
-# Global-Deforestation-Using-SQL
